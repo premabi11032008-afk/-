@@ -1,0 +1,152 @@
+Found 50 models available:
+--------------------------------------------------
+Model Name: models/gemini-2.5-flash
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-2.5-pro
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-2.5-flash-preview-tts
+Supported Methods: ['countTokens', 'generateContent']
+--------------------------------------------------
+Model Name: models/gemini-2.5-pro-preview-tts
+Supported Methods: ['countTokens', 'generateContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemma-4-26b-a4b-it
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/gemma-4-31b-it
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/gemini-flash-latest
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-flash-lite-latest
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-pro-latest
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-2.5-flash-lite
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-2.5-flash-image
+Supported Methods: ['generateContent', 'countTokens', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3-flash-preview
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3.1-pro-preview
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3.1-pro-preview-customtools
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3.1-flash-lite-preview
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3.1-flash-lite
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3-pro-image-preview
+Supported Methods: ['generateContent', 'countTokens', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3-pro-image
+Supported Methods: ['generateContent', 'countTokens', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/nano-banana-pro-preview
+Supported Methods: ['generateContent', 'countTokens', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3.1-flash-image-preview
+Supported Methods: ['generateContent', 'countTokens', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3.1-flash-image
+Supported Methods: ['generateContent', 'countTokens', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3.1-flash-lite-image
+Supported Methods: ['generateContent', 'countTokens', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3.5-flash
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3.5-flash-lite
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-omni-flash-preview
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/gemini-omni-1.1-flash
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/gemini-3.5-transcribe
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/gemini-3.6-flash
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3.7-flash
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3.8-flash
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/lyria-3-clip-preview
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/lyria-3-pro-preview
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/lyria-3.5
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/gemini-3.1-flash-tts-preview
+Supported Methods: ['generateContent', 'countTokens', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3.8-flash-tts
+Supported Methods: ['generateContent', 'countTokens', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-3.8-flash-lite-tts
+Supported Methods: ['generateContent', 'countTokens', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-robotics-er-2-preview
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------------------------------------
+Model Name: models/gemini-2.5-computer-use-preview-10-2025
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/antigravity-preview-05-2026
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/antigravity-preview-09-2026
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/antigravity-preview-latest
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/deep-research-max-preview-04-2026
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/deep-research-preview-04-2026
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/deep-research-pro-preview-12-2025
+Supported Methods: ['generateContent', 'countTokens']
+--------------------------------------------------
+Model Name: models/gemini-embedding-001
+Supported Methods: ['embedContent', 'countTextTokens', 'countTokens', 'asyncBatchEmbedContent']
+--------------------------------------------------
+Model Name: models/gemini-embedding-2-preview
+Supported Methods: ['embedContent', 'countTextTokens', 'countTokens', 'asyncBatchEmbedContent']
+--------------------------------------------------
+Model Name: models/gemini-embedding-2
+Supported Methods: ['embedContent', 'countTextTokens', 'countTokens', 'asyncBatchEmbedContent']
+--------------------------------------------------
+Model Name: models/aqa
+Supported Methods: ['generateAnswer']
+--------------------------------------------------
+Model Name: models/veo-3.1-generate-preview
+Supported Methods: ['predictLongRunning']
+--------------------------------------------------
+Model Name: models/veo-3.1-fast-generate-preview
+Supported Methods: ['predictLongRunning']
+--------------------------------------------------
