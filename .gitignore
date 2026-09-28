@@ -18,3 +18,5 @@ node_modules/
 # Build and Distribution files
 dist/
 build/
+backend/users_db.json
+backend/history_db.json
